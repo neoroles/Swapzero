@@ -1,7 +1,7 @@
 # Swapzero
 Laravel exchanger without fees
 
-<a href="http://swapzero.bozieff.ru">Демо</a>
+<a href="http://swapzero.bozieff.ru">DEMO</a>
 
 ## Screenshots
 
