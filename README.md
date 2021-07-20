@@ -5,7 +5,7 @@ Laravel exchanger without fees
 
 ## Скриншоты
 <p align="center">
-<img src="https://github.com/artistotless/Swapzero/blob/main/screen1.jpg" width="500" alt="Home Page">
+<img align="left" src="https://github.com/artistotless/Swapzero/blob/main/screen1.jpg" width="500" alt="Home Page">
 <br>
-<img src="https://github.com/artistotless/Swapzero/blob/main/screen2.jpg" width="500" alt="Home Page">
+<img align="left" src="https://github.com/artistotless/Swapzero/blob/main/screen2.jpg" width="500" alt="Home Page">
 </p>
